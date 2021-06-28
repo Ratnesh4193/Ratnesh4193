@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 👨‍💻 Website [https://www.linkedin.com/in/ratnesh-kumar-tiwari-867b521a6/](https://www.linkedin.com/in/ratnesh-kumar-tiwari-867b521a6/)
+- 👨‍💻 Website [https://ratnesh4193.github.io/Ratnesh4193/#/](https://ratnesh4193.github.io/Ratnesh4193/#/)
 
 - 📫 How to reach me **ratneshktiwari93@gmail.com**
 
